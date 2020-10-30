@@ -57,5 +57,12 @@ git /
 flask /
 intellij /
 ```
+## October 30th Check-in
+* Wesley-
+* Ethan-
+* Andrea-
+* Diego- 20/20. Our website was already advanced so we didn't need to add a lot.  We switched git hub pages so I brought my Greece page and the readme over from the other project.  I added hotels, airplanes and restraunts to my Greece page so that anyone who was visting the site and liked my page could start to look at planning a trip to Athens, Greece.
+* Nawied-
+** Scrum Master scoring for everyone- 
 ## Version History
 * Latest- this Version
