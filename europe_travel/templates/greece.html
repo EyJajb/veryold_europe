@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% extends "base.html" %}
 
 {% block head %}
 <title>{{name}} | Athens </title>
@@ -14,7 +15,32 @@
   padding: 50px;
   margin: 20px;
  }
-  </style>
+ #Hotel {
+     background-image: url('https://lh5.googleusercontent.com/p/AF1QipOS96GTYgcGJCBhXU4A2N17WDzo__F0laHcAv7U=w325-h189-k-no');
+     text-align:center;
+     width: 385px;
+     height: 216.3147px;
+     background-size: 385px 216.3147px;
+     color: white;
+     text-shadow: 2px 2px black;
+ }
+ #Restaurant {
+     background-image: url('https://www.telemachosathens.gr/images/slider/slide-1.jpg');
+     text-align:center;
+     width: 385px;
+     height: 288.5px;
+     background-size: 385px 288.5px;
+     color: white;
+     text-shadow: 2px 2px black;
+ }
+ .box {
+     background-image: url('https://www.kovifabrics.com/img/thumbs/de9dd38b70e615ef91c5677d7104e0c1.JPG');
+     color: black;
+     border: 5px solid green;
+     padding: 40px;
+ }
+</style>
+</head>
 {% endblock %}
 
 <!-- Project  Information  -->
@@ -76,4 +102,46 @@
         uprising on 3 September 1843.
     </pre>
 </div>
+{% endblock %}
+
+{% block hotspot2 %}
+<div class="box">
+    <h3>Top Hotels</h3>
+    <hr>
+    <div id="Hotel">
+        <h2>Herodion<br>Hof</h2>
+        <a href="https://www.herodion.gr/en?utm_source=google&utm_medium=MyBusiness&utm_campaign=gmb" style="color: white;">https://www.herodion.gr/en?utm_source=google&utm_medium=MyBusiness&utm_campaign=gmb</a>
+    </div>
+    <pre style="color:DarkSlateGrey; font-size:75%; overflow-x: hidden; max-width: 100%; background-color: burlywood; border: 5px darkgoldenrod;">
+        "Beautiful hotel centrally located. 400m
+        from Acropolis, 100m from Acropolis Museum,
+        200m from metro station, 300m from Odeon of
+        Herodes theatre, and 850m away from
+        National Museum of art"
+        </pre>
+</div>
+
+<div class="box">
+    <h3>Top Restaurants</h3>
+    <hr>
+    <div id="Restaurant">
+        <h2>Restaurant<br>Telemachos</h2>
+        <a href="https://www.telemachosathens.gr/el/" style="color: white;">https://www.telemachosathens.gr/el/</a>
+    </div>
+    <pre style="color:DarkSlateGrey; font-size:75%; overflow-x: hidden; max-width: 100%; background-color: burlywood; border: 5px darkgoldenrod;">
+        "Award-winning Restaurant 2017 - 2018 - 2019 in
+        the Greek Cuisine category. We transform our deep
+        knowledge and love for Greek gastronomy in a highly
+        aesthetic space that systematically cultivates the
+        culture of meat. The Greek tradition, the international
+        currents of meat eating and the seductive world of wine
+        are intricately woven into a unique, almost mystical
+        experience. At Telemachos Athens we fanatically
+        believe in high meat."
+        </pre>
+</div>
+{% endblock %}
+
+{% block hotspot3 %}
+
 {% endblock %}
