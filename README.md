@@ -58,11 +58,16 @@ flask /
 intellij /
 ```
 ## October 30th Check-in
-* Wesley-
+* Wesley-20/20 I didn't do much this week. We had a lot of technical problems, and were trying to get a navigation bar to work. In the end, we decided on making a new repository to work on merging our new website with our old one. I created a france.html, and helped get the porfolio on the new website. A lot of the week was learning how navigation bars worked.
 * Ethan- 20/20. We decided to revert back pages to an earlier version so we could use the nav bar. What I've done was create a format for each page so we could keep the pages looking consistent. I've debugged some of Andrea's coding and also I've started using my RasberriPi nd trying things out.
 * Andrea-
 * Diego- 20/20. Our website was already advanced so we didn't need to add a lot.  We switched git hub pages so I brought my Greece page and the readme over from the other project.  I added hotels, airplanes and restraunts to my Greece page so that anyone who was visting the site and liked my page could start to look at planning a trip to Athens, Greece.
 * Naweid-20/20. We didn't add much onto the website. Ethan created a template in which we could all use for our cities. This made all our pages similar and more appealing to the viewers. I added a top hotel as well as a top restaurant for this weeks addition to spain.html. With the help of my page, I hope viewers could see Barcelona as a location to put at the top of their list. 
-* Scrum Master scoring for everyone- 
+# Scrum Master scoring for everyone- 
+* Ethan- 5/5 did the most work this week, provided help to everyone, and created templates for everyone to have a coherent theme
+* Andrea - 5/5 provided support to everyone, very active within slack and zoom, made the idea to merge old and new websites together
+* Naweid- 5/5 Had to fix/find any code that wasn't working. Worked with Diego on updating new pages.
+* Diego- 5/5 assisted Naweid, and updated pages to the new template.
+* Wesley- 5/5 helped merge projected together, and created France page. 
 ## Version History
 * Latest- this Version
