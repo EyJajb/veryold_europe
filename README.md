@@ -68,6 +68,6 @@ intellij /
 * Andrea - 5/5 provided support to everyone, very active within slack and zoom, made the idea to merge old and new websites together
 * Naweid- 5/5 Had to fix/find any code that wasn't working. Worked with Diego on updating new pages.
 * Diego- 5/5 assisted Naweid, and updated pages to the new template. Also commented.
-* Wesley- 5/5 helped merge projected together, and created France page. 
+* Wesley- 5/5 helped merge projects together, and created France page. 
 ## Version History
 * Latest- this Version
