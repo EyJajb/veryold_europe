@@ -45,7 +45,7 @@
 ## Credit
 * Wesley- did the main page aswell as the menu page. Organized and put together all the websites.
 * Ethan- created a template for everyone to use for the travel website
-* Andrea- helped with flask and created a travel website
+* Andrea- helped with flask and created a travel website, added nav bar
 * Diego- helped organize folders and created a travel website
 * Naweid- Readme and created travel website.
 ## Meeting Fundamentals Objectives
@@ -60,7 +60,7 @@ intellij /
 ## October 30th Check-in
 * Wesley-20/20 I didn't do much this week. We had a lot of technical problems, and were trying to get a navigation bar to work. In the end, we decided on making a new repository to work on merging our new website with our old one. I created a france.html, and helped get the porfolio on the new website. A lot of the week was learning how navigation bars worked.
 * Ethan- 20/20. We decided to revert back pages to an earlier version so we could use the nav bar. What I've done was create a format for each page so we could keep the pages looking consistent. I've debugged some of Andrea's coding and also I've started using my RasberriPi nd trying things out.
-* Andrea-
+* Andrea- 20/20. One of our goals, like Ethan said, was to revert to an earlier version of our project (in which we had to make a new repository for to access) so that we could use the nav bar that we already had working. I spent time trying to integrate the portfolio into the travel website, but came across several issues in the code not being able to run properly. My goal was to make the portfolio the first thing that came up when running the code, but I was unable to figure it out (the welcome page with vanta clouds kept running instead of the portfolio), so I decided to incorporate it as a part of the nav bar for now. I also added a hotel and restaurant to my Italy page with Ethan's help.
 * Diego- 20/20. Our website was already advanced so we didn't need to add a lot.  We switched git hub pages so I brought my Greece page and the readme over from the other project.  I added hotels, airplanes and restraunts to my Greece page so that anyone who was visting the site and liked my page could start to look at planning a trip to Athens, Greece.
 * Naweid-20/20. We didn't add much onto the website. Ethan created a template in which we could all use for our cities. This made all our pages similar and more appealing to the viewers. I added a top hotel as well as a top restaurant for this weeks addition to spain.html. With the help of my page, I hope viewers could see Barcelona as a location to put at the top of their list. 
 # Scrum Master scoring for everyone- 
