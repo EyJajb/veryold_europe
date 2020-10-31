@@ -62,7 +62,7 @@ intellij /
 * Ethan- 20/20. We decided to revert back pages to an earlier version so we could use the nav bar. What I've done was create a format for each page so we could keep the pages looking consistent. I've debugged some of Andrea's coding and also I've started using my RasberriPi nd trying things out.
 * Andrea-
 * Diego- 20/20. Our website was already advanced so we didn't need to add a lot.  We switched git hub pages so I brought my Greece page and the readme over from the other project.  I added hotels, airplanes and restraunts to my Greece page so that anyone who was visting the site and liked my page could start to look at planning a trip to Athens, Greece.
-* Nawied-
+* Naweid-20/20. We didn't add much onto the website. Ethan created a template in which we could all use for our cities. This made all our pages similar and more appealing to the viewers. I added a top hotel as well as a top restaurant for this weeks addition to spain.html. With the help of my page, I hope viewers could see Barcelona as a location to put at the top of their list. 
 * Scrum Master scoring for everyone- 
 ## Version History
 * Latest- this Version
