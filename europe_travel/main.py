@@ -10,6 +10,10 @@ app = Flask(__name__)
 def home_route():
     return render_template("travel.html", projects=projects.setup())
 
+@app.route("/portfolio/")
+def portfolio_route():
+    return render_template("portfolio.html", projects=projects.setup())
+
 #adds the app routes so we can have seprate sites for each of the locations where we can include information about them
 @app.route("/greece/")
 def greece_route():
