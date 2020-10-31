@@ -59,7 +59,7 @@ intellij /
 ```
 ## October 30th Check-in
 * Wesley-
-* Ethan-
+* Ethan- 20/20. We decided to revert back pages to an earlier version so we could use the nav bar. What I've done was create a format for each page so we could keep the pages looking consistent. I've debugged some of Andrea's coding and also I've started using my RasberriPi nd trying things out.
 * Andrea-
 * Diego- 20/20. Our website was already advanced so we didn't need to add a lot.  We switched git hub pages so I brought my Greece page and the readme over from the other project.  I added hotels, airplanes and restraunts to my Greece page so that anyone who was visting the site and liked my page could start to look at planning a trip to Athens, Greece.
 * Nawied-
