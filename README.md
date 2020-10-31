@@ -65,7 +65,7 @@ intellij /
 * Naweid-20/20. We didn't add much onto the website. Ethan created a template in which we could all use for our cities. This made all our pages similar and more appealing to the viewers. I added a top hotel as well as a top restaurant for this weeks addition to spain.html. With the help of my page, I hope viewers could see Barcelona as a location to put at the top of their list. 
 # Scrum Master scoring for everyone- 
 * Ethan- 5/5 did the most work this week, provided help to everyone, and created templates for everyone to have a coherent theme
-* Andrea - 4/5 provided support to everyone, very active within slack and zoom, made the idea to merge old and new websites together
+* Andrea - 5/5 provided support to everyone, very active within slack and zoom, made the idea to merge old and new websites together
 * Naweid- 4/5 Had to fix/find any code that wasn't working. Worked with Diego on updating new pages.
 * Diego- 4/5 assisted Naweid, and updated pages to the new template. Also commented.
 * Wesley- 5/5 helped merge projects together, and created France page. 
