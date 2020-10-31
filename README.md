@@ -47,7 +47,7 @@
 * Ethan- created a template for everyone to use for the travel website
 * Andrea- helped with flask and created a travel website
 * Diego- helped organize folders and created a travel website
-* Nawied- Readme and created travel website.
+* Naweid- Readme and created travel website.
 ## Meeting Fundamentals Objectives
 ```
 Jinja /
