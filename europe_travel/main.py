@@ -1,4 +1,5 @@
 import projects #projects definitions are placed in different file
+import data
 
 # https://flask.palletsprojects.com/en/1.1.x/api/
 from flask import Flask, render_template
@@ -34,6 +35,10 @@ def france_route():
 @app.route("/germany/")
 def germany_route():
     return render_template("germany.html", projects=projects.setup())
+
+@app.route("/all/")
+def all_route():
+    return render_template("all.html", datalist=data.alldata())
 
 @app.route("/england/")
 def england_route():

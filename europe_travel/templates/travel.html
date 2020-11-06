@@ -17,31 +17,32 @@
     </style>
 </head>
 <body style="background-color:powderblue;color:white;">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Travel Team</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
-                <a class="nav-link" href="/greece/">Greece</a>
-                <a class="nav-link" href="/italy/">Italy</a>
-                <a class="nav-link" href="/spain/">Spain</a>f
-                <a class="nav-link" href="/france/">France</a>
-                <a class="nav-link" href="/germany/">Germany</a>
-                <a class="nav-link" href="/portfolio/">Portfolio</a>
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-            </div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Travel Team</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/greece/">Greece</a>
+            <a class="nav-link" href="/italy/">Italy</a>
+            <a class="nav-link" href="/spain/">Spain</a>f
+            <a class="nav-link" href="/france/">France</a>
+            <a class="nav-link" href="/germany/">Germany</a>
+            <a class="nav-link" href="/portfolio/">Portfolio</a>
+            <a class="nav-link" href="/all/">All</a>
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
         </div>
-    </nav>
-    <h1>WELCOME! EXPLORE AND TRAVEL BEAUTIFUL LOCATIONS IN EUROPE!</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Europe_1748-1766_en.png" alt="Map of Europe" style="width:800px;height:400px;margin:60px;">
+    </div>
+</nav>
+<h1>WELCOME! EXPLORE AND TRAVEL BEAUTIFUL LOCATIONS IN EUROPE!</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Europe_1748-1766_en.png" alt="Map of Europe" style="width:800px;height:400px;margin:60px;">
 
 
-    <script src="https://threejs.org/build/three.js"></script>
-    <script src="{{ url_for('static', filename='vanta.clouds.min.js') }}"></script>
-    <script>
+<script src="https://threejs.org/build/three.js"></script>
+<script src="{{ url_for('static', filename='vanta.clouds.min.js') }}"></script>
+<script>
 
     VANTA.CLOUDS({
         el: "body",
