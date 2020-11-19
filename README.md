@@ -18,6 +18,8 @@
 * greece.html-this is the page of our website which provides information about Greece and its hotspots
 * italy.html-this is the page of our website which provides information about Italy and its hotspots
 * spain.html-this is the page of our website which provides information about Spain and its hotspots
+* france.html-this is the page of our website which provides information about France and its hotspots
+* portfolio.html-the is the portfolio page we integrated into our website
 
 
 ### Directions for Mr.M
