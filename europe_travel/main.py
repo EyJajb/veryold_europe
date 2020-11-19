@@ -13,7 +13,7 @@ def home_route():
 
 @app.route("/portfolio/")
 def portfolio_route():
-    return render_template("portfolio.html", projects=projects.setup())
+    return render_template("portfolio.html", datalist=data.alldata())
 
 #adds the app routes so we can have seprate sites for each of the locations where we can include information about them
 @app.route("/greece/")
@@ -36,13 +36,7 @@ def france_route():
 def germany_route():
     return render_template("germany.html", projects=projects.setup())
 
-@app.route("/all/")
-def all_route():
-    return render_template("all.html", datalist=data.alldata())
 
-@app.route("/england/")
-def england_route():
-    return "<h1 style='background-color:blue;color:white'>England!</h1>"
 
 if __name__ == "__main__":
     #runs the application on the repl development server
