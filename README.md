@@ -50,14 +50,17 @@
 * Andrea- helped with flask and created a travel website, added nav bar
 * Diego- helped organize folders and created a travel website
 * Naweid- Readme and created travel website.
+
+* (More in depth in self grading sheet)
+
 ## Meeting Fundamentals Objectives
 ```
-Jinja /
-Html /
-bootstrap /
-git /
-flask /
-intellij /
+Jinja / inside base.html (lines template and extended throughout each location template (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L19)
+Html / inside each location template with head, body, classes, ids, etc (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/france.html#L1)
+bootstrap / nav bar within travel.html, base.html, portfoliobase.html (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L24)
+git / use of github repository
+flask / import flask within main.py (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/main.py#L5)
+intellij / commiting website code from intellij
 ```
 ## October 30th Check-in
 * Wesley-17/20 I didn't do much this week. We had a lot of technical problems, and were trying to get a navigation bar to work. In the end, we decided on making a new repository to work on merging our new website with our old one. I created a france.html, and helped get the porfolio on the new website. A lot of the week was learning how navigation bars worked.
@@ -71,5 +74,9 @@ intellij /
 * Naweid- 4/5 Had to fix/find any code that wasn't working. Worked with Diego on updating new pages.
 * Diego- 4/5 assisted Naweid, and updated pages to the new template. Also commented.
 * Wesley- 5/5 helped merge projects together, and created France page. 
+
+
+## ToDos
+* Week 6-11 in digital journal: https://docs.google.com/document/d/1QPwyc1Xuv9RBLs38YVvEXeJLtfcbk_punZXeIJM1wcw/edit#
 ## Version History
 * Latest- this Version
