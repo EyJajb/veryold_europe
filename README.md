@@ -54,14 +54,14 @@
 * (More in depth in self grading sheet)
 
 ## Meeting Fundamentals Objectives
-```
-Jinja / inside base.html (lines template and extended throughout each location template (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L19)
-Html / inside each location template with head, body, classes, ids, etc (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/france.html#L1)
-bootstrap / nav bar within travel.html, base.html, portfoliobase.html (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L24)
-git / use of github repository
-flask / import flask within main.py (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/main.py#L5)
-intellij / commiting website code from intellij
-```
+
+* Jinja : inside base.html (lines template and extended throughout each location template (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L19)
+* Html : inside each location template with head, body, classes, ids, etc (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/france.html#L1)
+* Bootstrap : nav bar within travel.html, base.html, portfoliobase.html (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/templates/base.html#L24)
+* Git : use of github repository
+* Flask : import flask within main.py (https://github.com/EyJajb/veryold_europe/blob/main/europe_travel/main.py#L5)
+* Intellij : commiting website code from intellij
+
 ## October 30th Check-in
 * Wesley-17/20 I didn't do much this week. We had a lot of technical problems, and were trying to get a navigation bar to work. In the end, we decided on making a new repository to work on merging our new website with our old one. I created a france.html, and helped get the porfolio on the new website. A lot of the week was learning how navigation bars worked.
 * Ethan- 20/20. We decided to revert back pages to an earlier version so we could use the nav bar. What I've done was create a format for each page so we could keep the pages looking consistent. I've debugged some of Andrea's coding and also I've started using my RasberriPi nd trying things out.
