@@ -11,30 +11,19 @@ app = Flask(__name__)
 def home_route():
     return render_template("travel.html", projects=projects.setup())
 
-@app.route("/portfolio/")
-def portfolio_route():
-    return render_template("portfolio.html", datalist=data.alldata())
 
-#adds the app routes so we can have seprate sites for each of the locations where we can include information about them
-@app.route("/greece/")
-def greece_route():
-    return render_template("greece.html", projects=projects.setup())
+@app.route("/sandiego/")
+def sandiego_route():
+    return render_template("sandiego.html", projects=projects.setup())
 
-@app.route("/italy/")
-def italy_route():
-    return render_template("italy.html", projects=projects.setup())
+@app.route("/losangeles/")
+def losangeles_route():
+    return render_template("losangeles.html", projects=projects.setup())
 
-@app.route("/spain/")
-def spain_route():
-    return render_template("spain.html", projects=projects.setup())
+@app.route("/sanfrancisco/")
+def sanfrancisco_route():
+    return render_template("sanfrancisco.html", projects=projects.setup())
 
-@app.route("/france/")
-def france_route():
-    return render_template("france.html", projects=projects.setup())
-
-@app.route("/germany/")
-def germany_route():
-    return render_template("germany.html", projects=projects.setup())
 
 
 
